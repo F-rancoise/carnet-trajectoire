@@ -1,0 +1,7 @@
+MON CARNET DE TRAJECTOIRE — mise en ligne sur GitHub Pages
+1. Créer un dépôt GitHub (ex. carnet-trajectoire) et y déposer les 5 fichiers de ce dossier (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png).
+2. Settings > Pages > Branch : main / root > Save. L'adresse apparaît après 1 à 2 minutes.
+3. Donner l'adresse aux jeunes (ou un QR code). Sur le téléphone : ouvrir le lien puis
+   - Android (Chrome) : menu ⋮ > « Ajouter à l'écran d'accueil » / « Installer l'application »
+   - iPhone (Safari) : bouton Partager > « Sur l'écran d'accueil »
+4. Les données restent sur le téléphone du jeune (aucun serveur, aucun compte). Le jeune choisit ce qu'il partage (copier le texte ou ouvrir un e-mail vers son référent). Rappeler aux jeunes de copier leur « code de sauvegarde » (onglet Moi) : effacer le navigateur efface le carnet.
